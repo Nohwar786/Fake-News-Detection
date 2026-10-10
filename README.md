@@ -71,7 +71,7 @@ The evaluation used:
 
 The current Streamlit application uses the Logistic Regression model for prediction.
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 Fake-News-Detection/
@@ -79,6 +79,11 @@ Fake-News-Detection/
 ├── dataset/
 │   ├── Fake.csv
 │   └── True.csv
+│
+├── screenshots/
+│   ├── Screenshot 2026-10-10 180900.png
+│   ├── Screenshot 2026-10-10 180957.png
+│   └── Screenshot 2026-10-10 181018.png
 │
 ├── venv/
 │
@@ -91,6 +96,7 @@ Fake-News-Detection/
 ├── requirements.txt
 └── README.md
 ```
+
 
 ## Installation
 
@@ -176,3 +182,13 @@ The application provides a web interface where users can enter a news article an
 This project classifies news based on patterns learned from the training dataset.
 
 It does not independently verify news using external sources o
+
+
+
+## 📸 Application Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-10-10%20180900.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-10%20180957.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-10-10%20181018.png)
